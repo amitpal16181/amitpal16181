@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @amitpal16181
+- 👀 I’m interested in ...  learning new things(but I want sufficient time to learn on my own pace)
+- 🌱 I’m currently learning ...  C++,JAVA,Git,Web Development
+- 💞️ I’m looking to collaborate on ...  Will tell when intrested...........
+- 📫 How to reach me ...  insta:- @amitpal16181
+- 📫 How to reach me ...  twitter:- @amitpal16181
