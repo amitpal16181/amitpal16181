@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amit Pal
-- 👀 I’m interested in ...  learning new things especially if things belong to problem solving.
+- 👀 I’m interested in ...  learning new things especially when they belong to problem solving.
 - 🌱 I’m currently learning ...  C++,JAVA,Git,Web Development
 - 💞️ I’m looking to collaborate on ... Web development and JAVA Projects to learn faster  
 - 💞️ I’m looking to collaborate on ...  Will tell when intrested...........
