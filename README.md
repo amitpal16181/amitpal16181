@@ -1,11 +1,18 @@
 <div class="landing" id="landing">
-                <h1>I'm Amit</h1>
+                <h1>Hello! I'm Amit</h1>
+                <h3>An Enthusiast</h3>
         </div>
         <hr id="hr1">
         <div class="shortProfile">
                 <img id="profilePic" src="./myPhoto_B&G_circle.png" alt="Profile Photo">
-                <h3>Amit Pal</h3>
-                <h4>Student</h4>
+                <h2>Amit Pal</h2>
+                <ul>
+                <li><h4>Student</h4></li>
+                <li><h4>Learner</h4></li>
+                <li><h4>Web Developer</h4></li>
+                <li><h4>Programmer</h4></li>
+                <li><h4>Problem Solver</h4></li>
+                </ul>
         </div>
         <hr>
         <div class="personalDetails">
