@@ -1,8 +1,66 @@
-<h1>Hi! I'm Amit</h1>
-- 👀 I’m interested in ...  learning new things especially when they belong to problem solving.
-- 🌱 I’m currently learning ...  C++,JAVA,Git,Web Development
-- 💞️ I’m looking to collaborate on ... Web development and JAVA Projects to learn faster  
-- 💞️ I’m looking to collaborate on ...  Will tell when intrested...........
-- 📫 How to reach me ...  insta:- @amitpal16181
-- 📫 How to reach me ...  twitter:- @amitpal16181
-- 📫 How to reach me ...  mail:- amitpal16181@gmail.com
+<div class="landing" id="landing">
+                <h1>I'm Amit</h1>
+        </div>
+        <hr id="hr1">
+        <div class="shortProfile">
+                <img id="profilePic" src="./images/myPhoto.png" alt="Profile Photo">
+                <!-- <img id="profilePic" src="./images/myPhoto2.jpg" alt="Profile Photo"> -->
+                <h3>Amit Pal</h3>
+                <h4>Student</h4>
+        </div>
+        <hr>
+        <div class="personalDetails">
+                <h2>Personal Details</h2>
+                <table>
+                        <tr>
+                                <td>
+                                        <h5>Name</h5>
+                                </td>
+                                <td>
+                                        <p>Amit Pal</p6>
+                                </td>
+                        </tr>
+                        <tr>
+                                <td>
+                                        <h5>Date of Birth</h5>
+                                </td>
+                                <td>
+                                        <p>25 September 2002</p>
+                                </td>
+                        </tr>
+                        <tr>
+                                <td>
+                                        <h5>Course</h5>
+                                </td>
+                                <td>
+                                        <p>B.Sc.(hons) Computer Science</p>
+                                </td>
+                        </tr>
+                        <tr>
+                                <td>
+                                        <h5>University</h5>
+                                </td>
+                                <td>
+                                        <p>Delhi University</p>
+                                </td>
+                        </tr>
+                        <tr>
+                                <td>
+                                        <h5>Address</h5>
+                                </td>
+                                <td>
+                                        <p>WZ-177J, Gali No.:- 16, Harinagar G-block,</p>
+                                </td>
+                        </tr>
+                        <tr>
+                                <td>
+                                        <h5> </h5>
+                                </td>
+                                <td>
+                                        <p> Near Santoshi Mata Mandir - 110058</p>
+                                </td>
+                        </tr>
+                </table>
+        </div>
+        <hr>
+        
