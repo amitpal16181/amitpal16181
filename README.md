@@ -3,8 +3,7 @@
         </div>
         <hr id="hr1">
         <div class="shortProfile">
-                <img id="profilePic" src="./images/myPhoto.png" alt="Profile Photo">
-                <!-- <img id="profilePic" src="./images/myPhoto2.jpg" alt="Profile Photo"> -->
+                <img id="profilePic" src="./myPhoto_B&G_circle.png" alt="Profile Photo">
                 <h3>Amit Pal</h3>
                 <h4>Student</h4>
         </div>
