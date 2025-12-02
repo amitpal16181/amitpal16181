@@ -1,0 +1,40 @@
+
+    <svg width="400" height="180" viewBox="0 0 400 180" xmlns="http://www.w3.org/2000/svg">
+      <style>
+        .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
+        .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+        .value { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+        .box { fill: #0d1117; stroke: #30363d; stroke-width: 1px; rx: 4px; }
+      </style>
+      <rect x="1" y="1" width="398" height="178" class="box"/>
+      <text x="20" y="35" class="header">GitHub Statistics</text>
+      
+      <g transform="translate(20, 65)">
+        <text x="0" y="0" class="stat">Total Commits:</text>
+        <text x="120" y="0" class="value">22</text>
+      </g>
+      
+      <g transform="translate(20, 95)">
+        <text x="0" y="0" class="stat">Pull Requests:</text>
+        <text x="120" y="0" class="value">6</text>
+      </g>
+      
+      <g transform="translate(20, 125)">
+        <text x="0" y="0" class="stat">Issues Opened:</text>
+        <text x="120" y="0" class="value">0</text>
+      </g>
+      
+      <g transform="translate(20, 155)">
+        <text x="0" y="0" class="stat">Stars Earned:</text>
+        <text x="120" y="0" class="value">0</text>
+      </g>
+      
+      <!-- Decorative IoT/CS Element -->
+      <path d="M250 60 L350 60 L350 140 L250 140 Z" fill="none" stroke="#30363d" stroke-width="2"/>
+      <circle cx="270" cy="80" r="5" fill="#58a6ff"/>
+      <circle cx="330" cy="80" r="5" fill="#58a6ff"/>
+      <circle cx="270" cy="120" r="5" fill="#58a6ff"/>
+      <circle cx="330" cy="120" r="5" fill="#58a6ff"/>
+      <path d="M270 80 L330 120 M330 80 L270 120" stroke="#58a6ff" stroke-width="1" opacity="0.5"/>
+    </svg>
+    
