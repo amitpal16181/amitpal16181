@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Amit Pal! 👋</h1>
-<h3 align="center">CS Student & IoT Enthusiast 🚀</h3>
+<h3 align="center">Computer Science Student & IoT Enthusiast 🚀</h3>
 
 <p align="center">
   I'm a passionate Computer Science student with a deep interest in the Internet of Things (IoT). 
@@ -41,13 +41,13 @@
   
   <h3>📫 Connect with Me</h3>
   
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/amitpal16181">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/amit-pal-985682183/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:amitpal16181@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
