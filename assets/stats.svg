@@ -11,7 +11,7 @@
       
       <g transform="translate(20, 65)">
         <text x="0" y="0" class="stat">Total Commits:</text>
-        <text x="120" y="0" class="value">25</text>
+        <text x="120" y="0" class="value">28</text>
       </g>
       
       <g transform="translate(20, 95)">
